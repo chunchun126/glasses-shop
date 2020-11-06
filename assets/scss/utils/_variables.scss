@@ -1,0 +1,29 @@
+// color
+$primary: #AA0601;
+$secondary: #650300;
+$light: #AA06010D;
+
+// font-size
+.h1 { // 64px
+  font-size: 4rem;
+}
+.h2 { // 48px
+  font-size: 3rem; 
+}
+.h3 { // 36px
+  font-size: 2.25rem; 
+}
+.h4 { // 32px
+  font-size: 2rem; 
+}
+.h5 { // 24px
+  font-size: 1.5rem; 
+}
+.h6 { // 20px
+  font-size: 1.25rem; 
+}
+
+// sapcing
+$sapcing: 8px;
+.pt-8 { padding-top: $sapcing*8 }
+.pb-10 { padding-top: $sapcing*10 }
