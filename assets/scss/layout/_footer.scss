@@ -9,7 +9,6 @@
     }
   }
   p {
-    display: flex;
     font-size: 36px;
     margin-bottom: 20px;
     img {
@@ -28,8 +27,6 @@
   }
 }
 .footer-copyright {
-  display: flex;
-  align-items: center;
   padding-top: 24px;
   border-top: 1px solid #fff;
   color: #fff;
@@ -43,7 +40,6 @@
   }
 }
 .policy {
-  display: flex;
   margin-left: auto;
   li:first-child {
     margin-right: 62px;
